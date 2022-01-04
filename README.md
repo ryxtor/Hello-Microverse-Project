@@ -1,9 +1,8 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Hello Microverse Project
 
 > Project created to learn how to setup a project in Github
-![screenshot](./app_screenshot.png)
+![screenshot](src/screenshot.png)
 
 
 
